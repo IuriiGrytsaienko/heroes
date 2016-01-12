@@ -1,0 +1,14 @@
+<div class="masthead">
+    <div class="container">
+        <img class="logo" src="assets/img/logo.jpg">
+        <h1>Marvel/DC Heroes</h1>
+    </div>
+</div>
+<uib-tabset>
+    <uib-tab ng-repeat="tab in tabs"
+             heading="{{tab.title}}"
+             active="tab.active"
+             select="goToState(tab.state, tab.stateParams)"
+    />
+</uib-tabset>
+<ui-view></ui-view>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Marvel/DC Heroes</title>
+
+        <!-- Styles -->
+        <link href="assets/libs/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="assets/css/style.css">
+
+        <!-- Libs -->
+        <script src="assets/libs/jquery-2.1.4.min.js"></script>
+        <script src="assets/libs/angular.min.js"></script>
+        <script src="assets/libs/angular-ui-router.min.js"></script>
+        <script src="assets/libs/ui-bootstrap-tpls-1.0.0.min.js"></script>
+
+        <!-- Scripts -->
+        <script src="app/heroes/heroesModule.js"></script>
+        <script src="app/heroes/heroesService.js"></script>
+        <script src="app/app.js"></script>
+    </head>
+
+    <body ng-app="HeroesApp">
+        <ui-view />
+    </body>
+
+</html>

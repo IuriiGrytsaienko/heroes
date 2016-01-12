@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Drax",
+    "realName": "Arthur Sampson Douglas",
+    "height": "6'4\"; (as Arthur Douglas) 5'9\"; (in most powerful body) 7'4\"",
+    "weight": "680 lbs.; (as Arthur Douglas) 161 lbs.; (in most powerful body) 1,050 lbs.",
+    "logoImg": "assets/img/logoDrax.jpg",
+    "img": "assets/img/Drax.jpg",
+    "powers": "Drax possesses a variety of super-human powers that utilize the cosmic energy bestowed upon his artificially created form by Kronos and Mentor (Alars), Mentor, including superhuman strength and durability.The Destroyer's body, while inhabited by Drax's spirit, is nearly invulnerable to all forms of physical injury. It is not known how great a force is necessary to injure him. His artificially created body could exist indefinitely in the vacuum of outer space, and he could survive for an unknown length without air, food, or water.Drax can fly by harnessing cosmic energy as a propulsion source. The maximum rate of speed that Drax could attain is not known, but he could make interplanetary journeys in a matter of weeks. It is unknown if he has retained this ability in his current form.Drax can also harness his cosmic energy and project it through his arms as concussive blasts. The maximum amount of force Drax can project is not known; he can, however, project enough energy to shatter large, ferrous meteors. It is unknown if he has retained this ability in his current form.",
+    "abilities": "Unrevealed"
+  },
+  {
+    "name": "Gamora",
+    "realName": "Gamora",
+    "height": "6'",
+    "weight": "170lbs",
+    "logoImg": "assets/img/logoGamora.jpg",
+    "img": "assets/img/Gamora.jpg",
+    "powers": "None",
+    "abilities": "Gamora is a highly accomplished athlete, gymnast, and hand-to-hand combatant."
+  },
+  {
+    "name": "Star-lord",
+    "realName": "Peter Jason Quill",
+    "height": "6'2\"",
+    "weight": "175 lbs.",
+    "logoImg": "assets/img/logoStar-lord.jpg",
+    "img": "assets/img/Star-lord.jpg",
+    "powers": "Star-Lord wore a costume that enabled him to survive in space. It is possible that the costume has actually altered his physical structure, as he does not need to wear any helmet, or any form of life support to survive the nearly absolute zero, airless vacuum. He can fly through air or in space, presumably another attribute of his costume. He possesses enhanced healing and uses personal energy shields. In the event that he were injured beyond his own ability to recover, Ship could administer emergency medical or surgical care.Star-Lord later received a number of cybernetic implants, including his left eye, which allows him to see all energy spectra, as well as a memory chip in his brain, which gives 100% recall.",
+    "abilities": "In addition, Star-Lord is highly athletic, a skilled marksman and swordsman, and proficient at hand-to-hand combat. After overcoming his lifetime of hatred, Star-Lord took a vow to never take another life unless absolutely necessary. His greatest asset is his partner and would-be lover, Ship."
+  },
+  {
+    "name": "Rocket Raccoon",
+    "realName": "Rocket Raccoon",
+    "height": "4'",
+    "weight": "55 lbs.",
+    "logoImg": "assets/img/logoRocketRaccoon.jpg",
+    "img": "assets/img/RocketRaccoon.jpg",
+    "powers": "",
+    "abilities": "Rocket has many of the same abilities as a normal raccoon, such as a heightened sense of smell and sight as compared to a human."
+  },
+  {
+    "name": "Groot",
+    "realName": "Groot",
+    "height": "Unrevealed (variable)",
+    "weight": "Unrevealed (variable)",
+    "logoImg": "assets/img/logoGroot.jpg",
+    "img": "assets/img/Groot.jpg",
+    "powers": "Groot was extremely powerful and resilient, he has the power or regeneration allowing him to re-grow limbs and even his entire form. He also has powers of the mind, although they only appear to work on plant life, allowing him to communicate with other trees and command them to attack those that oppose him. He is highly vulnerable to attacks of fire.",
+    "abilities": ""
+  }
+]
